@@ -1,0 +1,10 @@
+base
+data.table
+lattice
+ggplot2
+caret
+reshape2
+foreach
+iterators
+doParallel
+randomForest
